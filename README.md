@@ -1,5 +1,4 @@
-لاffjnxgjmb### Hi there 👋
-
+Hello
 <!--
 **Kamalaldinhk973/kamalaldinhk973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
